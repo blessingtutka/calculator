@@ -26,3 +26,4 @@ function calculator(number1, operator, number2){
   }
   return result;
 }
+calculator(number1,operator,number2)
