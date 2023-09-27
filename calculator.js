@@ -1,3 +1,3 @@
-let number1 =0;
-let operator = "";
-let number2 = 0;
+let number1     = parseInt(Readline());
+let operator    = Readline();
+let number2     = parseInt(Readline());
